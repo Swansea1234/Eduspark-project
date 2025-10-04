@@ -1,0 +1,13 @@
+# requirements.txt
+# A list of all project dependencies
+
+# For building the web application
+fastapi
+uvicorn
+
+# For handling AI API calls
+openai
+
+# For handling environment variables
+python-dotenv
+
